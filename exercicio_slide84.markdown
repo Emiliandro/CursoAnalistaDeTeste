@@ -44,3 +44,13 @@
 ## Metricas
 1. Nº aprovado divido pelo Nº planejado
 2. Em caso de erro, avisar o usuário e não cadastrar
+
+### Slide 93 - Monitoramento do planejamento
+1. % trabalho prepardo
+2. % resultados negativos
+3. % resultados positivos
+4. Densidade dos defeitos
+5. Resultado de retestes
+6. Custo dos testes
+7. Relação Defeito-Ocorrência
+8. Categoria dos defeitos
