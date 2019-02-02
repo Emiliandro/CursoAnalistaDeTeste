@@ -16,31 +16,25 @@
 1. senha > 6
 2. senha == confirmacao_senha
 3. senha[0...9a...z!...)]
+4. [0...9a...z!...)]@[0...9a...z!...)].[0...9a...z!...)]
 
 ## Casos inválidos
 1. mail != null
 2. senha != null
 3. ['null']@['null'].['null']
 4. ['!...)']@['!...)'].['!...)']
+5. dois usuários não podem ter o mesmo número
 
 ## Teste exploratório
-1. dois usuários não podem ter o mesmo número
+1. e-mail == senha é validos
 2. [0...9a...z!...)]@['edu'].['edu'] é valido
 3. 123456789@123456789.123456789 é valido
 4. [0...9a...z!...)]@[0...9a...z!...)].[0...9]
 5. @[...].[...] é possivel ter infinitos .['...'] no final
-6. e-mail == senha é validos
 
 ## Resultados esperados
 1. Caso validado - border-shadow vermelho nos inputs seguido de um redirecionamento para a home
 2. Caso invalidado - exibir mensagem informando o erro
->> senha curta, minimo 6 caracteres
->> e-mail já existe
->> e-mail mal formatado
-
-## Senhas testadas
-<!-- '''
-___________
-8888888
-iiiiiiiiiiiii
-''' -->
+> senha curta, minimo 6 caracteres,
+> e-mail já existe,
+> e-mail mal formatado
