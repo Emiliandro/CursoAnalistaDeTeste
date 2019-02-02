@@ -2,6 +2,7 @@
 > Um formulario de cadastro de usuario requer nome, cpf, mail e uma senha. Ao final existe um botao 'salvar', quais testes devem ser usados de acordo com os requisistos presente no slide?
 
 ## Testes usados
+> Uso do processo de modelagem de teste de software (slide 97)
 1. Partição em equivalencia
 2. Análise do valor limite
 3. Teste com base em experiência
