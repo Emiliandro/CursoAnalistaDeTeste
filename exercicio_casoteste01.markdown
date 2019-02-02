@@ -6,7 +6,7 @@
 1. acessar https://hvacnhurry.com/auth/
 2. Ter conexão (internet)
 
-## Procedimetnos
+## Procedimentos
 1. Clique no botão login
 2. Clique no botão cadastro
 3. Preencha os dados
@@ -24,7 +24,7 @@
 
 ## Teste exploratório
 1. dois usuários não podem ter o mesmo número
-2. @['edu'].['edu'] é valido
+2. [0...9a...z!...)]@['edu'].['edu'] é valido
 
 ## Resultados esperados
 1. Caso validado - border-shadow vermelho nos inputs seguido de um redirecionamento para a home
@@ -32,6 +32,10 @@
 >> senha curta, minimo 6 caracteres
 >> e-mail já existe
 >> e-mail mal formatado
+
+## Senhas testadas
+'''
 ___________
 8888888
 iiiiiiiiiiiii
+'''
