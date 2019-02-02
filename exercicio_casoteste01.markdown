@@ -21,10 +21,15 @@
 1. mail != null
 2. senha != null
 3. ['null']@['null'].['null']
+4. ['!...)']@['!...)'].['!...)']
 
 ## Teste exploratório
 1. dois usuários não podem ter o mesmo número
 2. [0...9a...z!...)]@['edu'].['edu'] é valido
+3. 123456789@123456789.123456789 é valido
+4. [0...9a...z!...)]@[0...9a...z!...)].[0...9]
+5. @[...].[...] é possivel ter infinitos .['...'] no final
+6. e-mail == senha é validos
 
 ## Resultados esperados
 1. Caso validado - border-shadow vermelho nos inputs seguido de um redirecionamento para a home
@@ -34,8 +39,8 @@
 >> e-mail mal formatado
 
 ## Senhas testadas
-'''
+<!-- '''
 ___________
 8888888
 iiiiiiiiiiiii
-'''
+''' -->
