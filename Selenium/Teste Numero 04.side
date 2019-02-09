@@ -1,0 +1,923 @@
+{
+  "id": "0c1dd9e6-3a8b-4801-b08b-b46bda704ba4",
+  "version": "2.0",
+  "name": "ujkmnbvghuj",
+  "url": "https://hvacnhurry.com",
+  "tests": [{
+    "id": "0d01381c-ccfa-4e29-8997-1cadb21ad812",
+    "name": "Teste 01",
+    "commands": [{
+      "id": "6be3e9d3-ab15-4b66-9563-f8e540e03d0f",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "8786fd0a-1df5-4059-942a-766f154b45c6",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1582x702",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "9fd04f9d-98c9-4510-9f3e-a3edfec49f71",
+      "comment": "",
+      "command": "click",
+      "target": "css=#result-sort > select",
+      "targets": [
+        ["css=#result-sort > select", "css:finder"],
+        ["css=select", "css"],
+        ["xpath=//div[@id='result-sort']/select", "xpath:idRelative"],
+        ["xpath=//select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d64b3e7f-d5a8-4144-82b3-cfe78b39013b",
+      "comment": "",
+      "command": "click",
+      "target": "css=#result-sort > select",
+      "targets": [
+        ["css=#result-sort > select", "css:finder"],
+        ["css=select", "css"],
+        ["xpath=//div[@id='result-sort']/select", "xpath:idRelative"],
+        ["xpath=//select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d8400fdb-2e74-4104-9fbe-fed5008715b5",
+      "comment": "",
+      "command": "select",
+      "target": "css=#result-sort > select",
+      "targets": [],
+      "value": "label=Price"
+    }, {
+      "id": "9008bacc-6037-44e7-9bf7-fe6d6d3a3156",
+      "comment": "",
+      "command": "click",
+      "target": "css=#result-sort > select",
+      "targets": [
+        ["css=#result-sort > select", "css:finder"],
+        ["css=select", "css"],
+        ["xpath=//div[@id='result-sort']/select", "xpath:idRelative"],
+        ["xpath=//select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "94fd6364-42ae-4189-a2c1-b7545b23134b",
+      "comment": "",
+      "command": "click",
+      "target": "css=#result-sort > select",
+      "targets": [
+        ["css=#result-sort > select", "css:finder"],
+        ["css=select", "css"],
+        ["xpath=//div[@id='result-sort']/select", "xpath:idRelative"],
+        ["xpath=//select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "562b2cec-1c53-4627-a59f-acb2cf34519d",
+      "comment": "",
+      "command": "select",
+      "target": "css=#result-sort > select",
+      "targets": [],
+      "value": "label=Manufacturer"
+    }, {
+      "id": "6813ca8b-20ff-4546-a48a-d0dbf86dd7eb",
+      "comment": "",
+      "command": "click",
+      "target": "css=#result-sort > select",
+      "targets": [
+        ["css=#result-sort > select", "css:finder"],
+        ["css=select", "css"],
+        ["xpath=//div[@id='result-sort']/select", "xpath:idRelative"],
+        ["xpath=//select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "f5fc9b39-97c5-4b8d-b6f6-47428125f3da",
+      "comment": "",
+      "command": "click",
+      "target": "id=result-sort",
+      "targets": [
+        ["id=result-sort", "id"],
+        ["css=#result-sort", "css:finder"],
+        ["css=#result-sort", "css"],
+        ["xpath=//div[@id='result-sort']", "xpath:attributes"],
+        ["xpath=//div[@id='search-controls']/div", "xpath:idRelative"],
+        ["xpath=//article/div/div/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "e792128e-7ab8-4034-8ec5-bafa344fcf0d",
+      "comment": "",
+      "command": "click",
+      "target": "css=#result-sort > select",
+      "targets": [
+        ["css=#result-sort > select", "css:finder"],
+        ["css=select", "css"],
+        ["xpath=//div[@id='result-sort']/select", "xpath:idRelative"],
+        ["xpath=//select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "824f50b4-1cd9-486a-986f-6639d72742ae",
+      "comment": "",
+      "command": "select",
+      "target": "css=#result-sort > select",
+      "targets": [],
+      "value": "label=Popularity"
+    }, {
+      "id": "bfedb496-c7ab-4c6a-81d5-d16d0786a6d0",
+      "comment": "",
+      "command": "click",
+      "target": "css=#result-sort > select",
+      "targets": [
+        ["css=#result-sort > select", "css:finder"],
+        ["css=select", "css"],
+        ["xpath=//div[@id='result-sort']/select", "xpath:idRelative"],
+        ["xpath=//select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c2705004-2497-422e-914e-ae0ae555a3b8",
+      "comment": "",
+      "command": "click",
+      "target": "id=search-btn",
+      "targets": [
+        ["id=search-btn", "id"],
+        ["css=#search-btn", "css:finder"],
+        ["css=#search-btn", "css"],
+        ["xpath=//button[@id='search-btn']", "xpath:attributes"],
+        ["xpath=//div[@id='filter-parts']/button", "xpath:idRelative"],
+        ["xpath=//div[2]/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "06fcd19c-a9a7-4de1-8716-e0495434b240",
+      "comment": "",
+      "command": "click",
+      "target": "css=#menu-item-72 > a",
+      "targets": [
+        ["css=#menu-item-72 > a", "css:finder"],
+        ["css=a[title=\"Help\"]", "css"],
+        ["xpath=//a[contains(text(),'Help')]", "xpath:link"],
+        ["xpath=//li[@id='menu-item-72']/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://hvacnhurry.com/help/')]", "xpath:href"],
+        ["xpath=//li[2]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "1eab636c-b18f-4c79-8e23-773b21ca75a5",
+      "comment": "",
+      "command": "click",
+      "target": "css=#menu-item-107 > a",
+      "targets": [
+        ["css=#menu-item-107 > a", "css:finder"],
+        ["css=a[title=\"...\"]", "css"],
+        ["xpath=//a[contains(text(),'Log In')]", "xpath:link"],
+        ["xpath=//li[@id='menu-item-107']/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://hvacnhurry.com/auth/')]", "xpath:href"],
+        ["xpath=//li[3]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "7c3cc9e9-35fb-49f2-aeda-09f363cab85f",
+      "comment": "",
+      "command": "click",
+      "target": "id=forgotten-link",
+      "targets": [
+        ["id=forgotten-link", "id"],
+        ["linkText=Forgot Password?", "linkText"],
+        ["css=#forgotten-link", "css:finder"],
+        ["css=#forgotten-link", "css"],
+        ["xpath=//a[contains(text(),'Forgot Password?')]", "xpath:link"],
+        ["xpath=//a[@id='forgotten-link']", "xpath:attributes"],
+        ["xpath=//form[@id='login-form']/a", "xpath:idRelative"],
+        ["xpath=//form/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c989ec0a-d7da-4d7c-81d4-d3d6d07438fe",
+      "comment": "",
+      "command": "click",
+      "target": "id=recovery_email",
+      "targets": [
+        ["id=recovery_email", "id"],
+        ["css=#recovery_email", "css:finder"],
+        ["css=#recovery_email", "css"],
+        ["xpath=//input[@id='recovery_email']", "xpath:attributes"],
+        ["xpath=//div[@id='before-reset']/input", "xpath:idRelative"],
+        ["xpath=//div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "eb9ed08e-2d50-40db-9c1a-100e0fdc48ca",
+      "comment": "",
+      "command": "type",
+      "target": "id=recovery_email",
+      "targets": [
+        ["id=recovery_email", "id"],
+        ["css=#recovery_email", "css:finder"],
+        ["css=#recovery_email", "css"],
+        ["xpath=//input[@id='recovery_email']", "xpath:attributes"],
+        ["xpath=//div[@id='before-reset']/input", "xpath:idRelative"],
+        ["xpath=//div/input", "xpath:position"]
+      ],
+      "value": "_________@____________._____"
+    }, {
+      "id": "a7b2c44c-377e-40f9-b9af-5bc84890d1a9",
+      "comment": "",
+      "command": "sendKeys",
+      "target": "id=recovery_email",
+      "targets": [
+        ["id=recovery_email", "id"],
+        ["css=#recovery_email", "css:finder"],
+        ["css=#recovery_email", "css"],
+        ["xpath=//input[@id='recovery_email']", "xpath:attributes"],
+        ["xpath=//div[@id='before-reset']/input", "xpath:idRelative"],
+        ["xpath=//div/input", "xpath:position"]
+      ],
+      "value": "${KEY_ENTER}"
+    }, {
+      "id": "cfb6e458-8c18-47d4-9de1-79f44c399452",
+      "comment": "",
+      "command": "click",
+      "target": "css=#menu-item-107 > a",
+      "targets": [
+        ["css=#menu-item-107 > a", "css:finder"],
+        ["css=a[title=\"...\"]", "css"],
+        ["xpath=//a[contains(text(),'Log In')]", "xpath:link"],
+        ["xpath=//li[@id='menu-item-107']/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://hvacnhurry.com/auth/')]", "xpath:href"],
+        ["xpath=//li[3]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "4355397a-f505-42db-a9f8-0b4b1c86a199",
+      "comment": "",
+      "command": "click",
+      "target": "id=login_email",
+      "targets": [
+        ["id=login_email", "id"],
+        ["css=#login_email", "css:finder"],
+        ["css=#login_email", "css"],
+        ["xpath=//input[@id='login_email']", "xpath:attributes"],
+        ["xpath=//form[@id='login-form']/input", "xpath:idRelative"],
+        ["xpath=//article/div/div/div/form/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "66d9012e-0f77-4839-8822-438ada50f4c8",
+      "comment": "",
+      "command": "click",
+      "target": "id=register-link",
+      "targets": [
+        ["id=register-link", "id"],
+        ["css=#register-link", "css:finder"],
+        ["css=#register-link", "css"],
+        ["xpath=//a[contains(text(),'Register')]", "xpath:link"],
+        ["xpath=//a[@id='register-link']", "xpath:attributes"],
+        ["xpath=//form[@id='login-form']/h3/a", "xpath:idRelative"],
+        ["xpath=//h3/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "898c4eef-03ef-4803-8ea5-0c5e665fb819",
+      "comment": "",
+      "command": "click",
+      "target": "id=register_email",
+      "targets": [
+        ["id=register_email", "id"],
+        ["css=#register_email", "css:finder"],
+        ["css=#register_email", "css"],
+        ["xpath=//input[@id='register_email']", "xpath:attributes"],
+        ["xpath=//form[@id='register-form']/input", "xpath:idRelative"],
+        ["xpath=//form[2]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "062b0ecd-9c17-40ee-bbad-0c3f8695cc82",
+      "comment": "",
+      "command": "type",
+      "target": "id=register_email",
+      "targets": [
+        ["id=register_email", "id"],
+        ["css=#register_email", "css:finder"],
+        ["css=#register_email", "css"],
+        ["xpath=//input[@id='register_email']", "xpath:attributes"],
+        ["xpath=//form[@id='register-form']/input", "xpath:idRelative"],
+        ["xpath=//form[2]/input", "xpath:position"]
+      ],
+      "value": "99999999999992@95679999999.com"
+    }, {
+      "id": "d92dce59-a626-4e14-a682-9cd04b26e112",
+      "comment": "",
+      "command": "type",
+      "target": "id=register_pwd",
+      "targets": [
+        ["id=register_pwd", "id"],
+        ["css=#register_pwd", "css:finder"],
+        ["css=#register_pwd", "css"],
+        ["xpath=//input[@id='register_pwd']", "xpath:attributes"],
+        ["xpath=//form[@id='register-form']/input[2]", "xpath:idRelative"],
+        ["xpath=//form[2]/input[2]", "xpath:position"]
+      ],
+      "value": "99999999999999999999999"
+    }, {
+      "id": "31478d15-4723-48cf-b18a-3157288b27f9",
+      "comment": "",
+      "command": "type",
+      "target": "id=register_re_pwd",
+      "targets": [
+        ["id=register_re_pwd", "id"],
+        ["css=#register_re_pwd", "css:finder"],
+        ["css=#register_re_pwd", "css"],
+        ["xpath=//input[@id='register_re_pwd']", "xpath:attributes"],
+        ["xpath=//form[@id='register-form']/input[3]", "xpath:idRelative"],
+        ["xpath=//input[3]", "xpath:position"]
+      ],
+      "value": "99999999999999999999999"
+    }, {
+      "id": "8e2ca37d-2c97-4b68-9282-235c6f3ee116",
+      "comment": "",
+      "command": "click",
+      "target": "css=.auth-button:nth-child(4)",
+      "targets": [
+        ["css=.auth-button:nth-child(4)", "css:finder"],
+        ["css=#register-form > button.auth-button", "css"],
+        ["xpath=(//button[@type='submit'])[3]", "xpath:attributes"],
+        ["xpath=//form[@id='register-form']/button", "xpath:idRelative"],
+        ["xpath=//form[2]/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "6a828e22-435b-4b3a-a57b-793b23c1c435",
+      "comment": "",
+      "command": "click",
+      "target": "id=colophon",
+      "targets": [
+        ["id=colophon", "id"],
+        ["css=#colophon", "css:finder"],
+        ["css=#colophon", "css"],
+        ["xpath=//footer[@id='colophon']", "xpath:attributes"],
+        ["xpath=//div[@id='footer-area']/footer", "xpath:idRelative"],
+        ["xpath=//footer", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "2308ff4c-f371-40fa-a8f3-2690431335fa",
+      "comment": "",
+      "command": "click",
+      "target": "id=dd-model",
+      "targets": [
+        ["id=dd-model", "id"],
+        ["css=#dd-model", "css:finder"],
+        ["css=#dd-model", "css"],
+        ["xpath=//select[@id='dd-model']", "xpath:attributes"],
+        ["xpath=//div[@id='filter-parts']/select[2]", "xpath:idRelative"],
+        ["xpath=//select[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "341b059d-0e61-4bd5-8264-2d7894917226",
+      "comment": "",
+      "command": "select",
+      "target": "id=dd-model",
+      "targets": [],
+      "value": "label=TooHot"
+    }, {
+      "id": "056e2fde-9fc2-4d49-9d58-b17cd84877df",
+      "comment": "",
+      "command": "click",
+      "target": "id=dd-model",
+      "targets": [
+        ["id=dd-model", "id"],
+        ["css=#dd-model", "css:finder"],
+        ["css=#dd-model", "css"],
+        ["xpath=//select[@id='dd-model']", "xpath:attributes"],
+        ["xpath=//div[@id='filter-parts']/select[2]", "xpath:idRelative"],
+        ["xpath=//select[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "ff38553b-9e58-4914-a1df-64ef6380e1a8",
+      "comment": "",
+      "command": "click",
+      "target": "id=search-btn",
+      "targets": [
+        ["id=search-btn", "id"],
+        ["css=#search-btn", "css:finder"],
+        ["css=#search-btn", "css"],
+        ["xpath=//button[@id='search-btn']", "xpath:attributes"],
+        ["xpath=//div[@id='filter-parts']/button", "xpath:idRelative"],
+        ["xpath=//div[2]/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "e96dd188-542c-495d-a74d-c12adb36687a",
+      "comment": "",
+      "command": "click",
+      "target": "css=.catalog-part:nth-child(2) p",
+      "targets": [
+        ["css=.catalog-part:nth-child(2) p", "css:finder"],
+        ["xpath=//div[@id='parts-content']/div[2]/div/p", "xpath:idRelative"],
+        ["xpath=//div[2]/div/p", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "8c2f282a-5800-4c8a-b07a-effb79b227e3",
+      "comment": "",
+      "command": "click",
+      "target": "css=#menu-item-107 > a",
+      "targets": [
+        ["css=#menu-item-107 > a", "css:finder"],
+        ["css=a[title=\"...\"]", "css"],
+        ["xpath=//a[contains(text(),'Log Out')]", "xpath:link"],
+        ["xpath=//li[@id='menu-item-107']/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://hvacnhurry.com/auth/')]", "xpath:href"],
+        ["xpath=//li[3]/a", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  },{
+    "id": "0d01381c-ccfa-4e29-8997-1cadb21ad812",
+    "name": "Teste 02",
+    "commands": [{
+      "id": "6be3e9d3-ab15-4b66-9563-f8e540e03d0f",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "8786fd0a-1df5-4059-942a-766f154b45c6",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1582x702",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "9fd04f9d-98c9-4510-9f3e-a3edfec49f71",
+      "comment": "",
+      "command": "click",
+      "target": "css=#result-sort > select",
+      "targets": [
+        ["css=#result-sort > select", "css:finder"],
+        ["css=select", "css"],
+        ["xpath=//div[@id='result-sort']/select", "xpath:idRelative"],
+        ["xpath=//select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d64b3e7f-d5a8-4144-82b3-cfe78b39013b",
+      "comment": "",
+      "command": "click",
+      "target": "css=#result-sort > select",
+      "targets": [
+        ["css=#result-sort > select", "css:finder"],
+        ["css=select", "css"],
+        ["xpath=//div[@id='result-sort']/select", "xpath:idRelative"],
+        ["xpath=//select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d8400fdb-2e74-4104-9fbe-fed5008715b5",
+      "comment": "",
+      "command": "select",
+      "target": "css=#result-sort > select",
+      "targets": [],
+      "value": "label=Price"
+    }, {
+      "id": "9008bacc-6037-44e7-9bf7-fe6d6d3a3156",
+      "comment": "",
+      "command": "click",
+      "target": "css=#result-sort > select",
+      "targets": [
+        ["css=#result-sort > select", "css:finder"],
+        ["css=select", "css"],
+        ["xpath=//div[@id='result-sort']/select", "xpath:idRelative"],
+        ["xpath=//select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "94fd6364-42ae-4189-a2c1-b7545b23134b",
+      "comment": "",
+      "command": "click",
+      "target": "css=#result-sort > select",
+      "targets": [
+        ["css=#result-sort > select", "css:finder"],
+        ["css=select", "css"],
+        ["xpath=//div[@id='result-sort']/select", "xpath:idRelative"],
+        ["xpath=//select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "562b2cec-1c53-4627-a59f-acb2cf34519d",
+      "comment": "",
+      "command": "select",
+      "target": "css=#result-sort > select",
+      "targets": [],
+      "value": "label=Manufacturer"
+    }, {
+      "id": "6813ca8b-20ff-4546-a48a-d0dbf86dd7eb",
+      "comment": "",
+      "command": "click",
+      "target": "css=#result-sort > select",
+      "targets": [
+        ["css=#result-sort > select", "css:finder"],
+        ["css=select", "css"],
+        ["xpath=//div[@id='result-sort']/select", "xpath:idRelative"],
+        ["xpath=//select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "f5fc9b39-97c5-4b8d-b6f6-47428125f3da",
+      "comment": "",
+      "command": "click",
+      "target": "id=result-sort",
+      "targets": [
+        ["id=result-sort", "id"],
+        ["css=#result-sort", "css:finder"],
+        ["css=#result-sort", "css"],
+        ["xpath=//div[@id='result-sort']", "xpath:attributes"],
+        ["xpath=//div[@id='search-controls']/div", "xpath:idRelative"],
+        ["xpath=//article/div/div/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "e792128e-7ab8-4034-8ec5-bafa344fcf0d",
+      "comment": "",
+      "command": "click",
+      "target": "css=#result-sort > select",
+      "targets": [
+        ["css=#result-sort > select", "css:finder"],
+        ["css=select", "css"],
+        ["xpath=//div[@id='result-sort']/select", "xpath:idRelative"],
+        ["xpath=//select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "824f50b4-1cd9-486a-986f-6639d72742ae",
+      "comment": "",
+      "command": "select",
+      "target": "css=#result-sort > select",
+      "targets": [],
+      "value": "label=Popularity"
+    }, {
+      "id": "bfedb496-c7ab-4c6a-81d5-d16d0786a6d0",
+      "comment": "",
+      "command": "click",
+      "target": "css=#result-sort > select",
+      "targets": [
+        ["css=#result-sort > select", "css:finder"],
+        ["css=select", "css"],
+        ["xpath=//div[@id='result-sort']/select", "xpath:idRelative"],
+        ["xpath=//select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c2705004-2497-422e-914e-ae0ae555a3b8",
+      "comment": "",
+      "command": "click",
+      "target": "id=search-btn",
+      "targets": [
+        ["id=search-btn", "id"],
+        ["css=#search-btn", "css:finder"],
+        ["css=#search-btn", "css"],
+        ["xpath=//button[@id='search-btn']", "xpath:attributes"],
+        ["xpath=//div[@id='filter-parts']/button", "xpath:idRelative"],
+        ["xpath=//div[2]/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "06fcd19c-a9a7-4de1-8716-e0495434b240",
+      "comment": "",
+      "command": "click",
+      "target": "css=#menu-item-72 > a",
+      "targets": [
+        ["css=#menu-item-72 > a", "css:finder"],
+        ["css=a[title=\"Help\"]", "css"],
+        ["xpath=//a[contains(text(),'Help')]", "xpath:link"],
+        ["xpath=//li[@id='menu-item-72']/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://hvacnhurry.com/help/')]", "xpath:href"],
+        ["xpath=//li[2]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "1eab636c-b18f-4c79-8e23-773b21ca75a5",
+      "comment": "",
+      "command": "click",
+      "target": "css=#menu-item-107 > a",
+      "targets": [
+        ["css=#menu-item-107 > a", "css:finder"],
+        ["css=a[title=\"...\"]", "css"],
+        ["xpath=//a[contains(text(),'Log In')]", "xpath:link"],
+        ["xpath=//li[@id='menu-item-107']/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://hvacnhurry.com/auth/')]", "xpath:href"],
+        ["xpath=//li[3]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "7c3cc9e9-35fb-49f2-aeda-09f363cab85f",
+      "comment": "",
+      "command": "click",
+      "target": "id=forgotten-link",
+      "targets": [
+        ["id=forgotten-link", "id"],
+        ["linkText=Forgot Password?", "linkText"],
+        ["css=#forgotten-link", "css:finder"],
+        ["css=#forgotten-link", "css"],
+        ["xpath=//a[contains(text(),'Forgot Password?')]", "xpath:link"],
+        ["xpath=//a[@id='forgotten-link']", "xpath:attributes"],
+        ["xpath=//form[@id='login-form']/a", "xpath:idRelative"],
+        ["xpath=//form/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c989ec0a-d7da-4d7c-81d4-d3d6d07438fe",
+      "comment": "",
+      "command": "click",
+      "target": "id=recovery_email",
+      "targets": [
+        ["id=recovery_email", "id"],
+        ["css=#recovery_email", "css:finder"],
+        ["css=#recovery_email", "css"],
+        ["xpath=//input[@id='recovery_email']", "xpath:attributes"],
+        ["xpath=//div[@id='before-reset']/input", "xpath:idRelative"],
+        ["xpath=//div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "eb9ed08e-2d50-40db-9c1a-100e0fdc48ca",
+      "comment": "",
+      "command": "type",
+      "target": "id=recovery_email",
+      "targets": [
+        ["id=recovery_email", "id"],
+        ["css=#recovery_email", "css:finder"],
+        ["css=#recovery_email", "css"],
+        ["xpath=//input[@id='recovery_email']", "xpath:attributes"],
+        ["xpath=//div[@id='before-reset']/input", "xpath:idRelative"],
+        ["xpath=//div/input", "xpath:position"]
+      ],
+      "value": "_________@____________._____"
+    }, {
+      "id": "a7b2c44c-377e-40f9-b9af-5bc84890d1a9",
+      "comment": "",
+      "command": "sendKeys",
+      "target": "id=recovery_email",
+      "targets": [
+        ["id=recovery_email", "id"],
+        ["css=#recovery_email", "css:finder"],
+        ["css=#recovery_email", "css"],
+        ["xpath=//input[@id='recovery_email']", "xpath:attributes"],
+        ["xpath=//div[@id='before-reset']/input", "xpath:idRelative"],
+        ["xpath=//div/input", "xpath:position"]
+      ],
+      "value": "${KEY_ENTER}"
+    }, {
+      "id": "cfb6e458-8c18-47d4-9de1-79f44c399452",
+      "comment": "",
+      "command": "click",
+      "target": "css=#menu-item-107 > a",
+      "targets": [
+        ["css=#menu-item-107 > a", "css:finder"],
+        ["css=a[title=\"...\"]", "css"],
+        ["xpath=//a[contains(text(),'Log In')]", "xpath:link"],
+        ["xpath=//li[@id='menu-item-107']/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://hvacnhurry.com/auth/')]", "xpath:href"],
+        ["xpath=//li[3]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "4355397a-f505-42db-a9f8-0b4b1c86a199",
+      "comment": "",
+      "command": "click",
+      "target": "id=login_email",
+      "targets": [
+        ["id=login_email", "id"],
+        ["css=#login_email", "css:finder"],
+        ["css=#login_email", "css"],
+        ["xpath=//input[@id='login_email']", "xpath:attributes"],
+        ["xpath=//form[@id='login-form']/input", "xpath:idRelative"],
+        ["xpath=//article/div/div/div/form/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "66d9012e-0f77-4839-8822-438ada50f4c8",
+      "comment": "",
+      "command": "click",
+      "target": "id=register-link",
+      "targets": [
+        ["id=register-link", "id"],
+        ["css=#register-link", "css:finder"],
+        ["css=#register-link", "css"],
+        ["xpath=//a[contains(text(),'Register')]", "xpath:link"],
+        ["xpath=//a[@id='register-link']", "xpath:attributes"],
+        ["xpath=//form[@id='login-form']/h3/a", "xpath:idRelative"],
+        ["xpath=//h3/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "898c4eef-03ef-4803-8ea5-0c5e665fb819",
+      "comment": "",
+      "command": "click",
+      "target": "id=register_email",
+      "targets": [
+        ["id=register_email", "id"],
+        ["css=#register_email", "css:finder"],
+        ["css=#register_email", "css"],
+        ["xpath=//input[@id='register_email']", "xpath:attributes"],
+        ["xpath=//form[@id='register-form']/input", "xpath:idRelative"],
+        ["xpath=//form[2]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "062b0ecd-9c17-40ee-bbad-0c3f8695cc82",
+      "comment": "",
+      "command": "type",
+      "target": "id=register_email",
+      "targets": [
+        ["id=register_email", "id"],
+        ["css=#register_email", "css:finder"],
+        ["css=#register_email", "css"],
+        ["xpath=//input[@id='register_email']", "xpath:attributes"],
+        ["xpath=//form[@id='register-form']/input", "xpath:idRelative"],
+        ["xpath=//form[2]/input", "xpath:position"]
+      ],
+      "value": "9999999999999@95679999999.com"
+    }, {
+      "id": "d92dce59-a626-4e14-a682-9cd04b26e112",
+      "comment": "",
+      "command": "type",
+      "target": "id=register_pwd",
+      "targets": [
+        ["id=register_pwd", "id"],
+        ["css=#register_pwd", "css:finder"],
+        ["css=#register_pwd", "css"],
+        ["xpath=//input[@id='register_pwd']", "xpath:attributes"],
+        ["xpath=//form[@id='register-form']/input[2]", "xpath:idRelative"],
+        ["xpath=//form[2]/input[2]", "xpath:position"]
+      ],
+      "value": "99999999999999999999999"
+    }, {
+      "id": "31478d15-4723-48cf-b18a-3157288b27f9",
+      "comment": "",
+      "command": "type",
+      "target": "id=register_re_pwd",
+      "targets": [
+        ["id=register_re_pwd", "id"],
+        ["css=#register_re_pwd", "css:finder"],
+        ["css=#register_re_pwd", "css"],
+        ["xpath=//input[@id='register_re_pwd']", "xpath:attributes"],
+        ["xpath=//form[@id='register-form']/input[3]", "xpath:idRelative"],
+        ["xpath=//input[3]", "xpath:position"]
+      ],
+      "value": "99999999999999999999999"
+    }, {
+      "id": "8e2ca37d-2c97-4b68-9282-235c6f3ee116",
+      "comment": "",
+      "command": "click",
+      "target": "css=.auth-button:nth-child(4)",
+      "targets": [
+        ["css=.auth-button:nth-child(4)", "css:finder"],
+        ["css=#register-form > button.auth-button", "css"],
+        ["xpath=(//button[@type='submit'])[3]", "xpath:attributes"],
+        ["xpath=//form[@id='register-form']/button", "xpath:idRelative"],
+        ["xpath=//form[2]/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "6a828e22-435b-4b3a-a57b-793b23c1c435",
+      "comment": "",
+      "command": "click",
+      "target": "id=colophon",
+      "targets": [
+        ["id=colophon", "id"],
+        ["css=#colophon", "css:finder"],
+        ["css=#colophon", "css"],
+        ["xpath=//footer[@id='colophon']", "xpath:attributes"],
+        ["xpath=//div[@id='footer-area']/footer", "xpath:idRelative"],
+        ["xpath=//footer", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "2308ff4c-f371-40fa-a8f3-2690431335fa",
+      "comment": "",
+      "command": "click",
+      "target": "id=dd-model",
+      "targets": [
+        ["id=dd-model", "id"],
+        ["css=#dd-model", "css:finder"],
+        ["css=#dd-model", "css"],
+        ["xpath=//select[@id='dd-model']", "xpath:attributes"],
+        ["xpath=//div[@id='filter-parts']/select[2]", "xpath:idRelative"],
+        ["xpath=//select[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "341b059d-0e61-4bd5-8264-2d7894917226",
+      "comment": "",
+      "command": "select",
+      "target": "id=dd-model",
+      "targets": [],
+      "value": "label=TooHot"
+    }, {
+      "id": "056e2fde-9fc2-4d49-9d58-b17cd84877df",
+      "comment": "",
+      "command": "click",
+      "target": "id=dd-model",
+      "targets": [
+        ["id=dd-model", "id"],
+        ["css=#dd-model", "css:finder"],
+        ["css=#dd-model", "css"],
+        ["xpath=//select[@id='dd-model']", "xpath:attributes"],
+        ["xpath=//div[@id='filter-parts']/select[2]", "xpath:idRelative"],
+        ["xpath=//select[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "ff38553b-9e58-4914-a1df-64ef6380e1a8",
+      "comment": "",
+      "command": "click",
+      "target": "id=search-btn",
+      "targets": [
+        ["id=search-btn", "id"],
+        ["css=#search-btn", "css:finder"],
+        ["css=#search-btn", "css"],
+        ["xpath=//button[@id='search-btn']", "xpath:attributes"],
+        ["xpath=//div[@id='filter-parts']/button", "xpath:idRelative"],
+        ["xpath=//div[2]/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "e96dd188-542c-495d-a74d-c12adb36687a",
+      "comment": "",
+      "command": "click",
+      "target": "css=.catalog-part:nth-child(2) p",
+      "targets": [
+        ["css=.catalog-part:nth-child(2) p", "css:finder"],
+        ["xpath=//div[@id='parts-content']/div[2]/div/p", "xpath:idRelative"],
+        ["xpath=//div[2]/div/p", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "8c2f282a-5800-4c8a-b07a-effb79b227e3",
+      "comment": "",
+      "command": "click",
+      "target": "css=#menu-item-107 > a",
+      "targets": [
+        ["css=#menu-item-107 > a", "css:finder"],
+        ["css=a[title=\"...\"]", "css"],
+        ["xpath=//a[contains(text(),'Log Out')]", "xpath:link"],
+        ["xpath=//li[@id='menu-item-107']/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://hvacnhurry.com/auth/')]", "xpath:href"],
+        ["xpath=//li[3]/a", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }, {
+    "id": "dd832d8b-3f12-4005-997f-8a158a9c8c5d",
+    "name": "Teste 03",
+    "commands": [{
+      "id": "d47492da-1308-4666-b04a-9be78a38094d",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "53c4ecb1-a6ed-40b3-95f3-e946a9fda51c",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1582x702",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "7180ae13-89a0-4241-abef-905cfcc9aa23",
+      "comment": "",
+      "command": "click",
+      "target": "css=#menu-item-72 > a",
+      "targets": [
+        ["css=#menu-item-72 > a", "css:finder"],
+        ["css=a[title=\"Help\"]", "css"],
+        ["xpath=//a[contains(text(),'Help')]", "xpath:link"],
+        ["xpath=//li[@id='menu-item-72']/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://hvacnhurry.com/help/')]", "xpath:href"],
+        ["xpath=//li[2]/a", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "abca015e-9a9f-48d8-83e8-4ebf9d129af8",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["0d01381c-ccfa-4e29-8997-1cadb21ad812"]
+  }],
+  "urls": ["https://hvacnhurry.com/"],
+  "plugins": []
+}
