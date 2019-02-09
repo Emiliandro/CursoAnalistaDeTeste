@@ -15,7 +15,7 @@
 3. Verificar
 4. Atuar
 
-#TMMI
+## TMMI
 1. Inicial - Nada documentando
 2. Gerenciamento - estados definidos e tecnicas de teste implementadas
 3. Definição - documentação em normas e processo de testes integrado ao ciclo de vida do software
