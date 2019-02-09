@@ -47,7 +47,7 @@
 2. Em caso de erro, avisar o usuário e não cadastrar
 
 ### Slide 93 - Monitoramento do planejamento
-1. % trabalho prepardo
+1. % trabalho preparado
 2. % resultados negativos
 3. % resultados positivos
 4. Densidade dos defeitos
