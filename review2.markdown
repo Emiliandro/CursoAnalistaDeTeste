@@ -21,3 +21,6 @@
 3. Definição - documentação em normas e processo de testes integrado ao ciclo de vida do software
 4. Medição - testes são gerenciados efetivamente
 5. Otimização
+
+## STEP
+>> Testar, depois codificar.
